@@ -1,10 +1,4 @@
-accessibility. You can choose to enable a more compact line height from the view settings menu.
 
-‎community/Luc4sf4.md
-+33
-
-
-Original file line number	Original file line	Diff line number	Diff line change
 # Lucas Fernandes Dias
 ## Descrição 🤓
 Olá, me chamo Lucas, estou entrando na caminhada como Desenvolvedor em busca de um emprego, estou sempre aprendendo e buscando me atualizar junto com as tecnologias
